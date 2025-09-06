@@ -1,0 +1,9 @@
+dataset/
+├── train/
+│   ├── apple/
+│   ├── banana/
+│   └── orange/
+└── test/
+    ├── apple/
+    ├── banana/
+    └── orange/
