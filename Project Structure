@@ -1,0 +1,14 @@
+ fruit-classifier/
+│── README.md
+│── requirements.txt
+│── train.py
+│── predict.py
+│── dataset/
+│    ├── train/
+│    │    ├── apple/
+│    │    ├── banana/
+│    │    └── orange/
+│    └── test/
+│         ├── apple/
+│         ├── banana/
+│         └── orange/
